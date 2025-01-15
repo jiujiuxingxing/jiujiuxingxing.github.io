@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jiujiiuxingxing.github.io/sitemap.xml
