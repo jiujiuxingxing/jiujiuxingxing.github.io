@@ -1,0 +1,7 @@
+venv
+.idea/*
+.history/*
+*.pyc
+.DS_Store
+*.lock
+public/*
